@@ -1,2 +1,3 @@
-# hollow-world
-# This is a simple code to test CI pipeline
+# maven-project
+
+Simple Maven Project
